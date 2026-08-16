@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-9x44ab.indocuan-vip.sbs/sitemap.xml
